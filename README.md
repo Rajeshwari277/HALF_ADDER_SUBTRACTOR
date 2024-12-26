@@ -63,3 +63,4 @@ Developed by: Nandhini M RegisterNumber:24900996
 ![Screenshot 2024-12-21 090810](https://github.com/user-attachments/assets/819d6570-b70c-48d5-983f-6755f76449e5)
 
 **Result:**
+Thus the implementation of half adder and half subtractor circuit has been implemented successfully using verilog and it's functionality has been executed successfully.
