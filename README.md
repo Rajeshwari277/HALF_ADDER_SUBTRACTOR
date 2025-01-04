@@ -35,7 +35,7 @@ Figure -02 HALF Subtractor
 
 **Truthtable**
 
-<img width="284" alt="image" src="https://github.com/user-attachments/assets/a2c4c5d9-b168-4e9e-8595-bde694906730" />
+<img width="284" alt="image" src="https://github.com/user-attachments/assets/97eb3df3-4fd7-49e8-b818-2ce229715347" />
 
 **Procedure**
 
